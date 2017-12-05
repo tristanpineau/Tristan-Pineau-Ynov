@@ -1,5 +1,6 @@
 ﻿
 /* Fonction : Tristan */
+
 function foo()
 {
 
